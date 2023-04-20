@@ -4,7 +4,7 @@ Demonstration video : https://youtu.be/Wj0-a-YoDw4
 
 USAGE :
 
-  ► Drop the script into the Blender "Text Editor" and run it several times to see the color changes.
+    ► Drop the script into the Blender "Text Editor" and run it several times to see the color changes.
   
   SCRIPT RESUME :
   
